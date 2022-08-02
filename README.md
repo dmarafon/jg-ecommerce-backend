@@ -2,5 +2,5 @@
 
 ## Endpoints: 
 
-### Register: :/users/register
-### Login: ://users/login
+ Register: :/users/register
+ Login: :/users/login
