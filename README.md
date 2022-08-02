@@ -1,6 +1,7 @@
-# JG Market Register/ Login Backend
+# JG Market Register
+##Login & Backend
 
-## Endpoints: 
+### Endpoints: 
 
  Register: :/users/register
  </br>
