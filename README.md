@@ -3,4 +3,5 @@
 ## Endpoints: 
 
  Register: :/users/register
+ </br>
  Login: :/users/login
